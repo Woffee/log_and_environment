@@ -1,6 +1,6 @@
 # Gettring Ready for Production: Devops, Cloud Computing, Environment Variables, Logging, and Continuous Integration
 
-## Introduction
+## Introduction of HW6
 
 In this unit, we are adding three new features to our program that will start to prepare your program for use in a production environment.  
 
