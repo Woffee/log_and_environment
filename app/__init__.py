@@ -26,6 +26,7 @@ class App:
 
     def load_environment_variables(self):
         settings = {key: value for key, value in os.environ.items()}
+        # print(settings)
         logging.info("Environment variables loaded.")
         return settings
 
